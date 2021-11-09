@@ -1,0 +1,29 @@
+.menu_holder{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.menu_holder > img, p{
+    margin-right: 15px;
+}
+
+.menu_notification{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #1ABE8D;
+}
+
+
+
+
+
+.menu_icon{
+    width: 20px;
+    height: 20px;
+    /* background-color: skyblue; */
+    border-radius: 50%;
+}

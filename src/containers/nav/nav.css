@@ -1,0 +1,15 @@
+nav {
+    width: 20vw;
+    height: 100vh;
+    background-color: #070E0B;
+    color: white;
+}
+
+.logoSection{
+    height: 20vh;
+    border-bottom: solid white 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

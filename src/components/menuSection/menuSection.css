@@ -1,0 +1,12 @@
+.menuSection{
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    margin-left: 20px;
+}
+
+h4{
+    margin-bottom: 10px;
+}

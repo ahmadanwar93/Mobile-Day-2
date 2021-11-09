@@ -1,0 +1,50 @@
+.profile_holder{
+    background-color: purple;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    min-width: 200px;
+    
+    /* min-height: 30vh; */
+}
+
+.profile_upper{
+    display:flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+
+img{
+    width: 200px;
+    height: 200px;
+    /* border-radius: 10px; */
+}
+
+.profile_lower{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.movie_rating{
+    position:absolute;
+    right: 10px;
+    height: 25px;
+    bottom: 10px;
+    border-radius: 5px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-left: 5px;
+    padding-right: 5px; 
+    
+}
+
+.lowerText{
+    color: white;
+}
+
