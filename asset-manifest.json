@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Mobile-Day-2/static/css/main.f229e753.chunk.css",
+    "main.js": "/Mobile-Day-2/static/js/main.65eb9c51.chunk.js",
+    "main.js.map": "/Mobile-Day-2/static/js/main.65eb9c51.chunk.js.map",
+    "runtime-main.js": "/Mobile-Day-2/static/js/runtime-main.953e1caf.js",
+    "runtime-main.js.map": "/Mobile-Day-2/static/js/runtime-main.953e1caf.js.map",
+    "static/js/2.f3926ed4.chunk.js": "/Mobile-Day-2/static/js/2.f3926ed4.chunk.js",
+    "static/js/2.f3926ed4.chunk.js.map": "/Mobile-Day-2/static/js/2.f3926ed4.chunk.js.map",
+    "static/js/3.f0685472.chunk.js": "/Mobile-Day-2/static/js/3.f0685472.chunk.js",
+    "static/js/3.f0685472.chunk.js.map": "/Mobile-Day-2/static/js/3.f0685472.chunk.js.map",
+    "index.html": "/Mobile-Day-2/index.html",
+    "static/css/main.f229e753.chunk.css.map": "/Mobile-Day-2/static/css/main.f229e753.chunk.css.map",
+    "static/js/2.f3926ed4.chunk.js.LICENSE.txt": "/Mobile-Day-2/static/js/2.f3926ed4.chunk.js.LICENSE.txt",
+    "static/media/movie_1.26127562.jpg": "/Mobile-Day-2/static/media/movie_1.26127562.jpg",
+    "static/media/movie_2.5bb495b9.jpg": "/Mobile-Day-2/static/media/movie_2.5bb495b9.jpg",
+    "static/media/movie_3.efcf08d5.jpg": "/Mobile-Day-2/static/media/movie_3.efcf08d5.jpg",
+    "static/media/movie_4.0e15f4ea.jpg": "/Mobile-Day-2/static/media/movie_4.0e15f4ea.jpg",
+    "static/media/movie_5.9774fe51.jpg": "/Mobile-Day-2/static/media/movie_5.9774fe51.jpg",
+    "static/media/movie_6.7abfba73.jpg": "/Mobile-Day-2/static/media/movie_6.7abfba73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.953e1caf.js",
+    "static/js/2.f3926ed4.chunk.js",
+    "static/css/main.f229e753.chunk.css",
+    "static/js/main.65eb9c51.chunk.js"
+  ]
+}
